@@ -11,4 +11,10 @@ console.log(footer);
 =======
 const payment = "integreted the payment";
 console.log(payment);
+<<<<<<< HEAD
 >>>>>>> 3994f2d (payment added)
+=======
+
+const upi = "Integrated the UPI";
+console.log(upi);
+>>>>>>> 65ec229 (upi added)
